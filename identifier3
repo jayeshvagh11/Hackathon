@@ -1,7 +1,7 @@
 {
     "name": "Your NFT Name",
     "description": "NFT Description",
-    "image": "https://www.freepik.com/free-vector/nft-non-fungible-token-concept-with-neon-light-effect_34355919.htm#fromView=search&page=1&position=31&uuid=2e7ad348-4a07-4e17-82d4-fc789fd0c778",
+    "image": "https://github.com/jayeshvagh11/Hackathon/blob/main/9719789.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
