@@ -1,7 +1,7 @@
 {
     "name": "Cosmic Explorer",
     "description": "Embark on a journey through the vast expanse of the cosmos with the Cosmic Explorer NFT. This digital collectible represents the spirit of adventure and discovery as you traverse distant galaxies and uncover hidden wonders.",
-    "image": "https://github.com/jayeshvagh11/Hackathon/blob/main/9719789.jpg",
+    "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/9719789.jpg",
     "attributes": [
         {
             "trait_type": " Exploration Level",
