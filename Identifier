@@ -1,11 +1,11 @@
 {
-    "name": "Your NFT Name",
-    "description": "NFT Description",
+    "name": "Cosmic Explorer",
+    "description": "Embark on a journey through the vast expanse of the cosmos with the Cosmic Explorer NFT. This digital collectible represents the spirit of adventure and discovery as you traverse distant galaxies and uncover hidden wonders.",
     "image": "https://www.freepik.com/free-vector/nft-non-fungible-token-concept-with-neon-light-effect_34355919.htm#fromView=search&page=1&position=31&uuid=2e7ad348-4a07-4e17-82d4-fc789fd0c778",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": " Exploration Level",
+            "value": "Legendary (10/10)"
         },
         {
             "trait_type": "Trait Name",
