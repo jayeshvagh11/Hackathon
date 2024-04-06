@@ -1,7 +1,7 @@
 {
     "name": "Your NFT Name",
     "description": "NFT Description",
-    "image": "https://github.com/jayeshvagh11/Hackathon/blob/main/9719789.jpg",
+    "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/9719789.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
