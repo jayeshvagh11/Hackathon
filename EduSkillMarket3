@@ -1,0 +1,15 @@
+{
+    "name": "Web Development",
+    "description": "Unlock the gateway to the digital world and embark on a journey of innovation and creativity with our comprehensive Web Development course. Whether you're a seasoned programmer looking to expand your skill set or a beginner eager to dive into the realm of web development, our course offers the perfect blend of theory and hands-on practice to propel you towards success in the digital landscape.",
+    "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/4479605.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
