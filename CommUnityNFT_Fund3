@@ -1,0 +1,15 @@
+{
+    "name": "App Development",
+    "description": "NFT Description",
+    "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/9719789.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
