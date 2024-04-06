@@ -4,12 +4,12 @@
     "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/5650517.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": " Exploration Level",
+            "value": "Legendary (8/10)"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": " Difficulty Level",
+            "value": "Legendary (6/10)"
         }
     ]
 }
