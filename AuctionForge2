@@ -1,7 +1,7 @@
 {
     "name": "Mystory Box 2",
     "description": "Host mystery box auctions where users bid on sealed NFT collections without knowing the contents. Each mystery box could contain a randomized selection of NFTs ranging from rare artwork to exclusive digital experiences. Bidders can place blind bids based on the perceived value of the mystery box, adding an element of excitement and anticipation to the auction process",
-    "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/9719789.jpg",
+    "image": "https://raw.githubusercontent.com/jayeshvagh11/Hackathon/main/view-mysterious-cardboard-box.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
